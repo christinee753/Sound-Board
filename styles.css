@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(161, 100, 223);
+    background-color: rgb(100, 207, 223);
     font-family: 'Poppins', sans-serif;
     display: flex;
     flex-wrap: wrap;
@@ -18,7 +18,7 @@ body {
 }
 
 .btn {
-    background-color: rebeccapurple;
+    background-color: rgb(15, 74, 109);
     border: none;
     border-radius: 5px;
     color: white;
